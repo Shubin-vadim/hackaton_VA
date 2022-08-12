@@ -1,8 +1,8 @@
 # Yolov3
-app/Models/config/
-app/Controllers/data/Reviews.txt
-
+Destktop/app/Models/config/
+Destktop/app/Controllers/data/Reviews.txt
+modile/app/NeuralNet
 
 # IDE
-.idea/
-env/
+.idea
+env
