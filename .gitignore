@@ -4,5 +4,8 @@ Destktop/app/Controllers/data/Reviews.txt
 modile/app/NeuralNet
 
 # IDE
-.idea
-env
+.idea/
+env/
+
+# Python
+Destktop/.idea/
