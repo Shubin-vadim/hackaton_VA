@@ -1,0 +1,8 @@
+# Yolov3
+app/Models/config/
+app/Controllers/data/Reviews.txt
+
+
+# IDE
+.idea/
+env/
