@@ -26,9 +26,9 @@ pip3 install -r requirements_mobile.txt
 python main.py
 ```
 # <a name="opportunity">Opportunity voice assistant</a>
-1.Search for information on the Internet. Keywords: "find", "find" + information search.
-2.To tell a joke. Keywords: "joke", "anedot".
-3.Find out the weather at the moment. Keywords: "weather", "pagoda" + city.
-4.Listening to music. Keywords: "songs", "song", "music", "music" + artist.
-5.Run the main programs for desktop. Keywords: "open", "run" + the name of the program.
-6.Watching a movie/TV series. Keywords: "watch", "watch", "watch", "watch" + the name of the movie / series.
+1. Search for information on the Internet. Keywords: "find", "find" + information search.
+2. To tell a joke. Keywords: "joke", "anedot".
+3. Find out the weather at the moment. Keywords: "weather", "pagoda" + city.
+4. Listening to music. Keywords: "songs", "song", "music", "music" + artist.
+5. Run the main programs for desktop. Keywords: "open", "run" + the name of the program.
+6. Watching a movie/TV series. Keywords: "watch", "watch", "watch", "watch" + the name of the movie / series.
