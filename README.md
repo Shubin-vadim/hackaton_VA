@@ -1,34 +1,34 @@
-# Голосовой помощник для инвалидов по зрению
+# Voice assistant for the visually impaired
 
-1. [Клонирование репозитория](#clone)
-2. [Установка зависимостей](#set_req)
-3. [Запуск программы](#run)
-4. [Возможности голосового ассистента](#opportunity)
+1. [Clone repository](#clone)
+2. [Install dependencies](#set_req)
+3. [Run program](#run)
+4. [Opportunity voice assistant](#opportunity)
 
-# <a name="clone">Клонирование репозитория</a>
+# <a name="clone">Clone repository</a>
 ```
 git clone https://github.com/Shubin-vadim/hackaton_VA.git
 ```
-# <a name="set_req">Установка зависимостей</a>
+# <a name="set_req"Install dependencies</a>
 
-1. Версия для компьютера
+1. Version for desktop
 ```
 cd Destkop
 pip3 install -r requirements_Destkop.txt
 ```
-2. Мобильная версия
+2. Version for mobile
 ```
 cd mobile
 pip3 install -r requirements_mobile.txt
 ```
-# <a name="run">Запуск программы для любой из версий</a>
+# <a name="run">Run program</a>
 ```
 python main.py
 ```
-# <a name="opportunity">Возможности голосового ассистента</a>
-1. Поиск информация в интернете. Ключевые слова: "найди", "найти" + информация для поиска.
-2. Рассказ анектода. Ключевые слова: "пошути", "анедот".
-3. Узнать погоду на данный момент. Ключевые слова: "погода", "пагода" + город.
-4. Прослушивание музыки. Ключевые слова: "песни", "песня", "музыка", "музыки" + исполнитель.
-5. Запуск базовых програм. Ключевые слова: "открой", "запусти" + название программы.
-6. Просмотр фильма/сериала. Ключевые слова: "посмотреть", "пасматреть", "смотреть", "сматреть" + название фильма/сериала.
+# <a name="opportunity">Opportunity voice assistant</a>
+1.Search for information on the Internet. Keywords: "find", "find" + information search.
+2. To tell a joke. Keywords: "joke", "anedot".
+3. Find out the weather at the moment. Keywords: "weather", "pagoda" + city.
+4. Listening to music. Keywords: "songs", "song", "music", "music" + artist.
+5. Run the main programs for desktop. Keywords: "open", "run" + the name of the program.
+6. Watching a movie/TV series. Keywords: "watch", "watch", "watch", "watch" + the name of the movie / series.
