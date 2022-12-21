@@ -9,7 +9,7 @@
 ```
 git clone https://github.com/Shubin-vadim/hackaton_VA.git
 ```
-# <a name="set_req"Install dependencies</a>
+# <a name="set_req">Install dependencies</a>
 
 1. Version for desktop
 ```
